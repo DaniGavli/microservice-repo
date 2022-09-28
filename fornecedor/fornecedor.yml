@@ -5,4 +5,4 @@ username: root
 url: jdbc:mysql://localhost:3307/fornecedor
 jpa:
  hibernate:
-  ddl-auto: update
+  ddl-auto: create
